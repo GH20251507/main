@@ -7,4 +7,4 @@ L'idea di "vendere storie" è un'immagine che trovo potente e riassume perfettam
 
 
 Markdown
-[Vai alla Seconda Pagina](seconda-pagina.
+[Vai alla Seconda Pagina](seconda-pagina.md)
