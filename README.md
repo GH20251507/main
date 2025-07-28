@@ -7,4 +7,4 @@ L'idea di "vendere storie" è un'immagine che trovo potente e riassume perfettam
 
 
 
-(pa_1.md)
+[Vai alla Seconda Pagina](pag_1.md)
