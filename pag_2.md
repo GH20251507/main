@@ -1,4 +1,4 @@
-Questa è la mia SECODA pagina
+Questa è la mia SECONDA pagina
 
 
 [Torna alla Pagina Principale](README.md)
