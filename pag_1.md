@@ -1,6 +1,6 @@
 
-Benvenuto sulla mia seconda pagina.
+Benvenuto sulla mia PRIMA pagina.
 
 [Torna alla Pagina Principale](README.md)
 
-[Torna alla Pagina Principale](pag_1.md)
+[Vai alla  Seconda Pagina](pag_2.md)
