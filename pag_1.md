@@ -8,4 +8,4 @@ Benvenuto sulla mia seconda pagina.
 
 [Torna alla Pagina Principale](README.md)
 
-[Vai alla seconda pagina].(pag_2.md)
+[Torna alla Pagina Principale](pag_1.md)
