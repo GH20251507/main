@@ -6,4 +6,4 @@ L'idea di "vendere storie" è un'immagine che trovo potente e riassume perfettam
 
 Benvenuto sulla mia seconda pagina.
 
-[Torna alla Pagina Principale](main)
+[Torna alla Pagina Principale](README.md)
