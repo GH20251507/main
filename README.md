@@ -6,5 +6,5 @@ La mia passione per la Città Eterna non è solo palpabile e contagiosa, è viss
 L'idea di "vendere storie" è un'immagine che trovo potente e riassume perfettamente l'essenza del mio legame con questa città millenaria. Spero che questo viaggio vi conquisti tanto quanto Roma ha conquistato me!
 
 
-Markdown
-[Vai alla Seconda Pagina](seconda-pagina.md)
+
+(pa_1.md)
